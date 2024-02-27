@@ -9,7 +9,7 @@
 
 .body-content-myname {
 	color: #2779B7;
-	font-weight: bold
+	font-weight: bold;        
 }
 
 .header
@@ -19,7 +19,7 @@
 	border-style:solid;
 	border-color:#AED0EA;
 	margin-bottom:30px;
-	height:175px;				
+	height:190px;				
 }
 
 .header-image
@@ -62,7 +62,7 @@
 
 .header-content-myname
 {
-	font-size: 22px; 
+	font-size: 24px; 
 	color: #2779B7; 
 	font-weight:bold
 }
