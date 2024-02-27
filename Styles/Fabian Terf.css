@@ -35,7 +35,7 @@
 .header-image-picture
 {
 	height: 190px; 
-	width: 120px;
+	width: 140px;
 }
 
 .header-qrcodeimage
@@ -57,7 +57,7 @@
 .header-content
 {
 	position: absolute; 
-	margin-left: 145px;
+	margin-left: 160px;
 }
 
 .header-content-myname
